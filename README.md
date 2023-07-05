@@ -6,6 +6,6 @@ This project provides a program for drawing experimental data and results of eye
 %   Copyright Dr. Yang Li
 %   School of Basic, Huizhou Health Sciences and Polytechnic,
 %   Huizhou, China 516025
-%   $Revision: 1.0 $ 
-%   $Date: 2023/04/24 17:12:06 $
+%   $Revision: 1.0
+%   $Date: 2023/04/24 17:12:06
 %------------------------------------------------------------------------------
